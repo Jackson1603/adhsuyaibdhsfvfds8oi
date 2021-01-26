@@ -1,0 +1,23 @@
+{
+    "name": "Syrux-TeleBot",
+    "description": "TELEBOT",
+    "keywords": [
+        "telegram",
+        "HACKING"
+    ],
+    "repository": "https://github.com/Jackson1603/adhsuyaibdhsfvfds8oi",
+    "env": {},
+    "addons": [
+    ],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
