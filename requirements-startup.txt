@@ -1,1 +1,3 @@
 telegram
+python-telegram-bot
+bs4
